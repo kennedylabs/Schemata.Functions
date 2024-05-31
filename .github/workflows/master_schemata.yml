@@ -39,4 +39,4 @@ jobs:
           app-name: 'schemata'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7816B98657804E759B71F3B629DDC8E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7351B8DE74745B0A2ED12EB4561109A }}
